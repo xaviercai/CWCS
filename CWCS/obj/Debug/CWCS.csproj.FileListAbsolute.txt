@@ -1,0 +1,10 @@
+C:\Users\11171\Documents\Visual Studio 2010\Projects\CWCS\CWCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\11171\Documents\Visual Studio 2010\Projects\CWCS\CWCS\bin\CWCS.dll
+C:\Users\11171\Documents\Visual Studio 2010\Projects\CWCS\CWCS\bin\CWCS.pdb
+C:\Users\11171\Documents\Visual Studio 2010\Projects\CWCS\CWCS\obj\Debug\CWCS.dll
+C:\Users\11171\Documents\Visual Studio 2010\Projects\CWCS\CWCS\obj\Debug\CWCS.pdb
+C:\Users\11171\Documents\Visual Studio 2010\Projects\caishome.svn\CWCS\CWCS\bin\CWCS.dll
+C:\Users\11171\Documents\Visual Studio 2010\Projects\caishome.svn\CWCS\CWCS\bin\CWCS.pdb
+C:\Users\11171\Documents\Visual Studio 2010\Projects\caishome.svn\CWCS\CWCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\11171\Documents\Visual Studio 2010\Projects\caishome.svn\CWCS\CWCS\obj\Debug\CWCS.dll
+C:\Users\11171\Documents\Visual Studio 2010\Projects\caishome.svn\CWCS\CWCS\obj\Debug\CWCS.pdb
